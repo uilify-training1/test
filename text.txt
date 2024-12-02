@@ -1,4 +1,4 @@
- Datentr„ger in Laufwerk C: ist Windows
+ Datentrâ€žger in Laufwerk C: ist Windows
  Volumeseriennummer: 52CC-B779
 
  Verzeichnis von C:\Repos\github-crash-course-part2
@@ -14,8 +14,11 @@
 -----------------------
 
 
-Hier noch ein paar Änderungen
+Hier noch ein paar Ã„nderungen
 
 
 -----------------------
 HALLO GitHub
+----------------------
+Hallo lolakes Repo auf dem PC von Olli :-)
+###############################
