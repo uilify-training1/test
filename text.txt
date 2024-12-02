@@ -1,0 +1,10 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 52CC-B779
+
+ Verzeichnis von C:\Repos\github-crash-course-part2
+
+02.12.2024  13:21    <DIR>          .
+02.12.2024  13:03    <DIR>          ..
+02.12.2024  13:21                 0 text.txt
+               1 Datei(en),              0 Bytes
+               2 Verzeichnis(se), 185.765.326.848 Bytes frei
